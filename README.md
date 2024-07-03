@@ -1,0 +1,1 @@
+Este projeto realiza a coleta de reviews do filme "Paris, Texas" no IMDb por meio de webscraping. Em seguida, emprega a API do ChatGPT para analisar os sentimentos expressos nas reviews coletadas. Os resultados das análises são organizados e exportados para um arquivo Excel.
